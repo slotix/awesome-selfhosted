@@ -96,7 +96,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Cluster Control](https://severalnines.com/clustercontrol/) - Setup many databases in few clicks with monitoring, load balancing and more. `⊘ Proprietary` `deb/Ansible/Shell/Docker`
-
+- [DBConvert Streams](https://streams.dbconvert.com) - A cloud-native platform for real-time data migration and Change Data Capture (CDC) replication between MySQL and PostgreSQL databases. Supports deployment across various cloud platforms, including AWS, GCP, MS Azure.
 
 ### Document Management - E-books
 
